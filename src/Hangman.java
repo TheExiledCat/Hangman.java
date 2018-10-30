@@ -25,6 +25,7 @@ public class Hangman {
             if (word.charAt(i)==' ') {
                 filler[i]=' ';
             }
+
             i++;
 
         }
