@@ -28,6 +28,7 @@ public class Hangman {
 
             i++;
 
+            
         }
 
         System.out.println(filler);
